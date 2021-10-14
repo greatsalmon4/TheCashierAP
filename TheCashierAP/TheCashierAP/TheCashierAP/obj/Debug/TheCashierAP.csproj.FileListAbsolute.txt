@@ -1,0 +1,14 @@
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\bin\Debug\TheCashierAP.exe.config
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\bin\Debug\TheCashierAP.exe
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\bin\Debug\TheCashierAP.pdb
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\TheCashierAP.csproj.AssemblyReference.cache
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\MainWindow.baml
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\MainWindow.g.cs
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\App.g.cs
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\TheCashierAP_MarkupCompile.cache
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\TheCashierAP.g.resources
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\TheCashierAP.Properties.Resources.resources
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\TheCashierAP.csproj.GenerateResource.cache
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\TheCashierAP.csproj.CoreCompileInputs.cache
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\TheCashierAP.exe
+D:\Mochamad Bre Kautsar Jayaningrat\Bachelor of Informatics\Visual Studio\repos\TheCashierAP\TheCashierAP\TheCashierAP\obj\Debug\TheCashierAP.pdb
